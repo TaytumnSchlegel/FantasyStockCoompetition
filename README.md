@@ -1,4 +1,4 @@
-# FantasyStockCoompetition
+# Fantasy Stock Competition
 
 ## Overview 
 
